@@ -1,7 +1,5 @@
 # Landly 
 
-### VISIT HERE - https://landly-beta.vercel.app/
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### description :
@@ -23,7 +21,7 @@
 ### Tech Stack used:
 - **Frontend** - NEXT JS , TAILWIND CSS
 - **Backend** - SOLIDITY.
-- **network** - POLYGON TEST NET (all contracts deployed) 
+- **network** -  Defi Chain EVM Network Testnet(all contracts deployed) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
