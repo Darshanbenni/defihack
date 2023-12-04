@@ -26,7 +26,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### contract address
-- land contract - 0xa38d2bc1953095eF5707b0e454F2fE1100d37F54
+- land contract - 0xDC5c874D2C3f5e3A2BCC7ab7e9b0A4Dd12b956B0
 - nft contract - 0xDC5c874D2C3f5e3A2BCC7ab7e9b0A4Dd12b956B0
 
 ### screen shots:
